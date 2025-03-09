@@ -1,90 +1,104 @@
-<!--
-**sathishdusharla/sathishdusharla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 # Hi there, I'm Sathish Dusharla! 👋
 
-I’m a student developer focused on **Data Science** and **Machine Learning**, with a passion for applying technology to solve complex problems. Currently pursuing a **Bachelor of Technology in Computer Science** at Anurag University, I’m deeply involved in university tech initiatives and have built projects that aim to make an impact. My recent project, **BlockvoteX**, utilizes blockchain to ensure secure and transparent voting, combining my knowledge of decentralized systems with my drive to create meaningful solutions.
+Passionate and detail-oriented **Computer Science and Engineering** student at **Anurag University**, specializing in **software engineering, data structures, cloud computing, and decentralized systems**. I have experience developing **scalable web applications, financial technology solutions, and blockchain-based platforms**. My expertise spans **Python, Java, Go, C++, and full-stack development**, with a focus on secure applications and fintech innovations.
 
 ---
 
-## 🔭 I’m currently working on:
-- **Data Science and Machine Learning projects** to deepen my expertise in predictive modeling, data analysis, and algorithm optimization.
-- **BlockvoteX**, a decentralized voting system built on blockchain, aimed at delivering secure and transparent elections.
-
-## 🌱 I’m currently learning:
-- **Advanced Machine Learning** techniques for real-world applications.
-- Expanding my skills in **Data Science** to uncover deeper insights and patterns in complex datasets.
-
-## 👯 I’m looking to collaborate on:
-- Projects focused on **Data Science**, **Machine Learning**, and **AI** where I can apply my skills in data analysis and algorithm development to tackle real-world challenges.
-
-## 🤔 I’m looking for help with:
-- Exploring the latest advancements in machine learning techniques, particularly in model optimization and deep learning frameworks.
-
-## 💬 Ask me about:
-- Data Science, Machine Learning, Python, and my experience working on BlockvoteX! I’m always open to discussions and collaborations on tech topics.
+## 🎯 Career Objective
+Aspiring software engineer eager to contribute to **next-generation financial technology solutions** at JPMorgan Chase & Co. I am committed to leveraging my skills in **cloud computing, risk management, and digital transformation** to drive efficiency and innovation.
 
 ---
 
-## 🛠️ Technical Skills
+## 🎓 Education
 
-- **Programming Languages:** Python, C, Java, C++, HTML, CSS, JavaScript
-- **Core Areas:** Data Science, Machine Learning, Web Development
-- **Frameworks & Libraries:** Angular, SciPy, NumPy, pandas, scikit-learn
-- **Databases:** MySQL, MongoDB
-- **Tools:** Git & GitHub
-- **Certifications:** Machine Learning with Python (NIELIT), Python (HackerRank), Data Science
+- **Bachelor of Technology in Computer Science and Engineering** | **Anurag University, Hyderabad** *(2023 – 2027)* | **CGPA: 9.15**
+- **Board of Intermediate Education** | **Saigouthami Junior College, Suryapet** *(2021 – 2023)* | **CGPA: 9.72**
+- **Board of Secondary Education** | **Montessori High School, Suryapet** *(2020 – 2021)* | **CGPA: 10.0**
 
 ---
 
-## 🏆 Certifications
+## 🛠 Technical Skills
 
-- **Machine Learning and Data Science using Python** (NIELIT)
-- **Python** (HackerRank)
-- **Data Structures and Algorithms**
-- **C Programming Language**
-- **Java**
-
----
-
-## 🌟 Featured Project
-
-### BlockvoteX - Decentralized Voting System
-A blockchain-based voting platform developed to deliver secure, transparent, and tamper-proof elections. BlockvoteX enables real-time registration, voting, and results tracking, emphasizing data security and user privacy for organizations and communities.
-
-[Explore BlockvoteX on GitHub](https://github.com/sathishdusharla)
+- **Programming Languages:** Python, Java, Go, C++, C  
+- **Data Structures & Algorithms:** Proficient in DSA, Object-Oriented Design, System Design  
+- **Problem-Solving:** 100+ problems on LeetCode, 5-star rating in Python, C++, C on HackerRank  
+- **Operating Systems & Networking:** Linux, Shell Scripting, TCP/IP, HTTP, REST APIs  
+- **Cloud & DevOps:** AWS, Docker, CI/CD (Jenkins, GitHub Actions)  
+- **Databases:** Oracle SQL, MySQL, MongoDB  
+- **Web Development:** HTML, CSS, JavaScript, React, MERN Stack, Django  
+- **Development Tools:** IntelliJ IDEA, VS Code, PyCharm, Eclipse, Postman  
+- **Version Control & Collaboration:** Git, GitHub  
 
 ---
 
-## 🎖 Accomplishments
+## 🚀 Projects
 
-- **Design Team Lead** in the Blockchain Club at Anurag University
-- **National Hackathon Participation** representing Anurag University at TechHack
-- Ranked among the top students with a **9.5 CGPA**
+### **BlockvoteX** | *React, Solidity, Blockchain, Node.js, Express.js, Web3.js, Relational Database*  
+- Engineered a **secure, scalable voting platform** ensuring **data integrity, fraud prevention, and real-time analytics**.
+- Implemented **blockchain-based vote recording**, eliminating risks of tampering and unauthorized modifications.
+- Designed an **admin-voter dashboard** for **real-time election monitoring** and **secure access management**.
+- Developed **smart contract-driven voting workflows** to ensure trustless and tamper-proof transactions.
+- Presented at **Tejas2K25**, an Engineering Expo at **Anurag University**.
+
+🔗 **Live Demo:** [BlockvoteX](https://blockvotex.netlify.app)  
+🔗 **GitHub Repository:** [BlockvoteX](https://github.com/sathishdusharla)
+
+### **AI-Powered Banking & Financial Assistant** | *React, API, AI*  
+- Built an **AI-driven financial assistant** providing **real-time budget insights, fraud detection, and personalized banking recommendations**.
+- Integrated **financial APIs** for **real-time market analysis and transaction monitoring**.
+- Developed **voice-activated banking assistance** to improve accessibility and enhance user experience.
+- Designed **AI-driven financial trend analysis**, optimizing user spending and investment decisions.
+
+### **StegaVault** | *AI, Python, Django, DCT Algorithm*  
+- Developed a **steganography-based secure messaging system** using **Discrete Cosine Transform (DCT) encryption**.
+- Built a **Django-based web interface** allowing **seamless message encryption, transmission, and decryption**.
+- Implemented a **decryption mechanism utilizing Inverse DCT** for accurate and confidential message retrieval.
+- Integrated **cryptographic techniques** to ensure **high-level data security and privacy**.
+
+---
+
+## 🏆 Accomplishments
+
+- **Runner-up** - Microsoft Innoquest Hackathon *(Indoor Navigation for Visually Impaired)*
+- **Python Programming Intern** - Selected at VaultofCodes
+- **Design Team Lead** - Blockchain Club, Anurag University
+- **Member** - Indian Society for Technical Education (ISTE)
+- **Conducted workshops & sessions** on **Blockchain and Full-Stack Development**, training **50+ students**.
+- **Recipient of Anurag CET 2023 Merit Scholarship**
+
+---
+
+## 📜 Certifications
+
+- **AWS Academy Graduate - Cloud Foundations**
+- **AWS Academy Graduate - Data Engineering**
+- **HackerRank Frontend Developer (React)**
+- **GeeksforGeeks Full Stack Developer Bootcamp**
+- **Machine Learning and Data Science using Python (NIELIT)**
+- **Python (HackerRank)**
+- **Data Structures and Algorithms (GeeksforGeeks)**
 
 ---
 
 ## 🌍 Languages
 
-- **Telugu**: Native
-- **English**: Intermediate (B2)
+- **Telugu**: Native  
+- **English**: B2 (Intermediate)  
 
 ---
 
-## 📫 How to reach me:
+## 📫 Connect with Me
 
-- **LinkedIn**: [Sathish Dusharla](https://www.linkedin.com/in/sathish-dusharla-176374314/)
+- **Email**: [dusharlasathish03@gmail.com](mailto:dusharlasathish03@gmail.com)
+- **GitHub**: [sathishdusharla](https://github.com/sathishdusharla)
+- **LinkedIn**: [Sathish Dusharla](https://www.linkedin.com/in/sathishdusharla)
 - **Instagram**: [@thedusharla](https://www.instagram.com/thedusharla)
 - **Twitter**: [@thedusharla](https://twitter.com/thedusharla)
 
 ---
 
-## 😄 Pronouns:
-He/Him
-
-## ⚡ Fun fact:
-When I’m not coding, you can find me exploring the latest advancements in Data Science and Machine Learning or participating in hackathons!
+## ⚡ Fun Fact
+When I’m not coding, you’ll find me **exploring AI trends, blockchain innovations, and participating in hackathons!**
 
 ---
 
@@ -94,5 +108,4 @@ When I’m not coding, you can find me exploring the latest advancements in Data
 
 ---
 
-I’m excited to connect, collaborate, and create. Let’s make something amazing together!
-
+🚀 **Let's collaborate and innovate together!**
